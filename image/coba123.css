@@ -1,0 +1,23 @@
+	body{
+				font-family: "Raleway", sans-serif;
+			}
+			p {
+				color:orange;
+			}
+			
+			h1{
+				color:green
+			}
+			#Paragraf-satu{
+				color:brown;
+				text-align:justify;
+			}
+			.garis-bawah{
+				text-decoration-line: underline;
+			}
+			.kapital{
+				text-transform: capitalize;
+			}
+			.tab{
+				text-indent: 50px;
+			}

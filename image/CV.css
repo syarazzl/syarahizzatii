@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV</title>
+		<meta name="author" content="Syarah Izzati">
+		
+	</head>
+	<body>
+	
+		<h1>Curriculum Vitae</h1>
+		<h2>Informasi Pribadi</h2>
+		
+		<tr>
+			<td>Nama</td>
+			<td>:</td>
+		
+		</tr>
+		
+		
+		<tr>
+		<th rowspan="2">No</th>
+		<th rowspan = "2">Nama</th>
+		<th colspan="3">Mata Kuliah</th>
+		
+		</tr>
+	</body>
+</html>
+
